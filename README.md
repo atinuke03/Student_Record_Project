@@ -32,9 +32,17 @@ Enables geographic analysis to identify trends in applications and admissions fr
 Admission Status:
 Categorical data indicating whether the student was admitted (e.g., "Accepted," "Rejected,").
 The primary outcome variable for assessing factors that influence admission decisions.
-
+## Data Cleaning
 
 ## Data Visualization
 Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and infographics, data visualization tools and techniques help to make complex data more accessible, understandable, and usable.
 
 ![Student Record Analysis](https://github.com/user-attachments/assets/918c31d3-673f-41dd-a696-9105094d09e6)
+
+## Summary of Student Admission Record
+- The total number of student is 93 and the average age of the student is 20.
+- The student admission record revealed the overall maximum admission test score to be 99 while the minimum admission test score is 50.
+- Admission status count has a total of 43 for both accepted and rejected.
+- Total test score recorded was 7224.
+- A total of 50 admission was rejected.
+- 
