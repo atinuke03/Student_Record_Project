@@ -47,8 +47,9 @@ Data visualization is the graphical representation of information and data. By u
 
 ## Summary of Student Admission Record
 - The total number of student is 93 and the average age of the student is 20.
-- The student admission record revealed the overall maximum admission test score to be 99 while the minimum admission test score is 50.
+- The student admission record revealed the overall maximum admission test score to be 99 while the minimum admission test score was 50.
 - Admission status count has a total of 43 for both accepted and rejected.
 - Total test score recorded was 7224.
 - A total of 50 admission was rejected.
+- The result revealed that 18 males and 25 females students were accepted. However, 29 females and 21 males student were rejected.
 - 
