@@ -34,6 +34,7 @@ Categorical data indicating whether the student was admitted (e.g., "Accepted," 
 The primary outcome variable for assessing factors that influence admission decisions.
 
 
-# Data Visualization
+## Data Visualization
+Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and infographics, data visualization tools and techniques help to make complex data more accessible, understandable, and usable.
 
 ![Student Record Analysis](https://github.com/user-attachments/assets/918c31d3-673f-41dd-a696-9105094d09e6)
