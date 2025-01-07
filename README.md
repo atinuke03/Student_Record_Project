@@ -42,7 +42,8 @@ At the initial phase of data cleaning and preparation, the following actions was
 ## Data Visualization
 Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and infographics, data visualization tools and techniques help to make complex data more accessible, understandable, and usable.
 
-![Student Record](https://github.com/user-attachments/assets/ac00d197-e31c-40e5-ba4a-cdab204e8f5a)
+![Student Record 2](https://github.com/user-attachments/assets/37ae245b-1eca-47d0-9eb4-5d317472c66c)
+
 
 
 ## Summary of Student Admission Record
