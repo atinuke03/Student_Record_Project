@@ -1,5 +1,5 @@
 # Student Record Project
-Student data refers to the comprehensive collection of information about individuals enrolled in an educational institution. The record aims to generate insights across student enrolment, thereby helping the institution make informed decisions concerning the student admission. 
+Student data refers to the comprehensive collection of information about individuals enrolled in an educational institution. The record aims to generate insights across student enrolment, thereby helping the institution make informed decisions concerning student admission. 
 
 ## Overview of the Student Record
 The provided student dataset contains key attributes that offer insights into the profiles, academic performance, and admissions trends of prospective students. Analyzing this dataset using Power BI allows for an in-depth exploration of patterns and relationships across various dimensions. Below is a detailed breakdown of the dataset:
