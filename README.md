@@ -52,3 +52,16 @@ Data visualization is the graphical representation of information and data. By u
 - Total test score recorded was 7224.
 - A total of 50 admission was rejected and 43 was accepted. Of the 50 admission rejected, 29 were males and 21 were females. However, 18 males and 25 females summed up the 43 students accepted.
 - Quetta was ranked the top city with the highest number (1554) of students.
+
+## Insights
+With 50 students rejected and 43 accepted, the data indicates a rejection rate of approximately 54% and an acceptance rate of 46%. This suggests that:
+- The admission criteria might be stringent, leading to more applicants failing to meet the requirements.
+- The high rejection rate may indicate a competitive process, which could enhance the institution's reputation but may also deter future applicants.
+- The high number of rejections could reflect inadequacies in how applicants are prepared or guided through the process.
+
+## Actionable Recommendations
+The institution could:
+- Reassess the stringency of admission requirements to ensure they are aligned with institutional goals without unnecessarily excluding qualified candidates.
+- Consider introducing flexibility in criteria, such as conditional admissions or remedial programs for borderline applicants.
+- Offer workshops or online resources to help applicants improve their qualifications, such as test preparation materials or high school counseling.
+
