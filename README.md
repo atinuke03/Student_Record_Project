@@ -51,5 +51,6 @@ Data visualization is the graphical representation of information and data. By u
 - Admission status count has a total of 43 for both accepted and rejected.
 - Total test score recorded was 7224.
 - A total of 50 admission was rejected.
-- The result revealed that 18 males and 25 females students were accepted. However, 29 females and 21 males student were rejected.
-- Quetta was ranked the top performing city with a total number of 1554 student
+- The result revealed that 18 males and 25 females students' admission were accepted. However, admission of 29 females and 21 males student were rejected.
+- Quetta was ranked the top city with the highest number (1554) of  students.
+of
