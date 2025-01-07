@@ -43,7 +43,7 @@ At the initial phase of data cleaning and preparation, the following actions was
 Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and infographics, data visualization tools and techniques help to make complex data more accessible, understandable, and usable.
 
 ## Student Admission Record Analysis
-![Student Record 2](https://github.com/user-attachments/assets/37ae245b-1eca-47d0-9eb4-5d317472c66c)
+![Student Record 3](https://github.com/user-attachments/assets/f5cf0db6-733b-4f61-b09c-bf4bcd8aafe1)
 
 ## Findings 
 - The total number of student is 93 and the average age of the student is 20.
