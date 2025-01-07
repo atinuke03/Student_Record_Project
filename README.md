@@ -50,6 +50,5 @@ Data visualization is the graphical representation of information and data. By u
 - The student admission record revealed the overall maximum admission test score to be 99 while the minimum admission test score was 50.
 - Admission status count has a total of 43 for both accepted and rejected.
 - Total test score recorded was 7224.
-- A total of 50 admission was rejected and 43 was accepted.
-- Of the 50 admission rejected, 29 were males and 21 were females. However, 18 males and 25 females summed up the 43 students accepted.
+- A total of 50 admission was rejected and 43 was accepted. Of the 50 admission rejected, 29 were males and 21 were females. However, 18 males and 25 females summed up the 43 students accepted.
 - Quetta was ranked the top city with the highest number (1554) of students.
