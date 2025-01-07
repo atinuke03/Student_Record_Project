@@ -42,16 +42,14 @@ At the initial phase of data cleaning and preparation, the following actions was
 ## Data Visualization
 Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and infographics, data visualization tools and techniques help to make complex data more accessible, understandable, and usable.
 
+## Student Admission Record Analysis
 ![Student Record 2](https://github.com/user-attachments/assets/37ae245b-1eca-47d0-9eb4-5d317472c66c)
 
-
-
-## Summary of Student Admission Record
+## Findings 
 - The total number of student is 93 and the average age of the student is 20.
 - The student admission record revealed the overall maximum admission test score to be 99 while the minimum admission test score was 50.
 - Admission status count has a total of 43 for both accepted and rejected.
 - Total test score recorded was 7224.
-- A total of 50 admission was rejected.
-- The result revealed that 18 males and 25 females students' admission were accepted. However, admission of 29 females and 21 males student were rejected.
-- Quetta was ranked the top city with the highest number (1554) of  students.
-of
+- A total of 50 admission was rejected and 43 was accepted.
+- Of the 50 admission rejected, 29 were males and 21 were females. However, 18 males and 25 females summed up the 43 students accepted.
+- Quetta was ranked the top city with the highest number (1554) of students.
