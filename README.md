@@ -1,7 +1,20 @@
-# Student Record Project
+# Project Title: Student Record Project
+
+# Outline
+[Project Description](#project-description)
+[Overview](#overview)
+[Column Descriptions](#column-description)
+[Data cleaning and Preparation](#data-preparation-and-cleaning)
+[Data Visualization](#data-visualization)
+[Student Admission Record Analysis](3student-admission-record-analysis)
+[Findings](#findings)
+[Insights](#insights)
+[actionable Recommendation](#actionable-recommendation)
+
+# Project Description
 Student data refers to the comprehensive collection of information about individuals enrolled in an educational institution. The record aims to generate insights across student enrolment, thereby helping the institution make informed decisions concerning student admission. 
 
-## Overview of the Student Record
+## Overview 
 The provided student dataset contains key attributes that offer insights into the profiles, academic performance, and admissions trends of prospective students. Analyzing this dataset using Power BI allows for an in-depth exploration of patterns and relationships across various dimensions. Below is a detailed breakdown of the dataset:
 
 ## Column Descriptions
